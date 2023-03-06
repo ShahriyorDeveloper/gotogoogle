@@ -1,0 +1,2 @@
+# gotogoogle
+jamoaviy birinchi projectimiz.
